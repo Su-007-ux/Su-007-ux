@@ -1,18 +1,58 @@
-# 💫 About Me:
-programador aficionado de python y la tecnologia<br>
+<h1 align="center">¡Hola! Soy Jesús 👋</h1>
 
+<h3 align="center">Estudiante de Ingeniería en Informática | Desarrollador Python</h3>
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/JD2b) 
+<p align="center">
+Apasionado por el desarrollo de software, la inteligencia artificial y la electrónica aplicada.<br/>
+Actualmente cursando Ingeniería en Informática en la UNERG, combinando teoría de sistemas con proyectos prácticos.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Su-007-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Su-007-ux&theme=gruvbox&hide_border=false)<br/>
+---
+
+### 🚀 Sobre mí
+
+- 🎓 Estudiante de **Informática/Sistemas** en la Universidad Nacional Experimental "Rómulo Gallegos" (UNERG)
+- 🐍 Desarrollo principalmente en **Python**, con experiencia en interfaces gráficas (PyQt6), bases de datos y automatización
+- 🤖 Explorando integración de **IA generativa** en aplicaciones de escritorio
+- 🔧 Interesado en electrónica y sistemas embebidos con **Arduino**
+- 📚 En constante aprendizaje: métodos numéricos, álgebra lineal y desarrollo de software con metodologías ágiles (Scrum)
+
+### 🛠️ En desarrollo
+
+**LAMB** — Juego de terror psicológico en Python, con un asistente de IA que interactúa con el jugador a través de una interfaz de escritorio personalizada (PyQt6 + Google Gemini API).
+
+---
+
+### 🌐 Redes
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/JD2b)
+
+### 💻 Tecnologías
+
+**Lenguajes**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frameworks & Librerías**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Bases de Datos**
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas & Plataformas**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![](https://github-readme-stats.shion.dev/api?username=Su-007-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Su-007-ux&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Su-007-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Su-007-ux&icon=1&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Su-007-ux&icon=1&color=7" alt="visitor badge"/></a>
+</p>
+
+<!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
