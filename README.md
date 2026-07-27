@@ -1,25 +1,19 @@
-<h1 align="center">¡Hola! Soy Jesús 👋</h1>
+<h1 align="center">¡Hola! 👋</h1>
 
-<h3 align="center">Estudiante de Ingeniería en Informática | Desarrollador Python</h3>
+<h3 align="center">Desarrollador Python | Estudiante de Ingeniería en Informática</h3>
 
 <p align="center">
-Apasionado por el desarrollo de software, la inteligencia artificial y la electrónica aplicada.<br/>
-Actualmente cursando Ingeniería en Informática en la UNERG, combinando teoría de sistemas con proyectos prácticos.
+Apasionado por el desarrollo de software, la inteligencia artificial y la electrónica aplicada.
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Informática/Sistemas** en la Universidad Nacional Experimental "Rómulo Gallegos" (UNERG)
-- 🐍 Desarrollo principalmente en **Python**, con experiencia en interfaces gráficas (PyQt6), bases de datos y automatización
-- 🤖 Explorando integración de **IA generativa** en aplicaciones de escritorio
+- 🐍 Desarrollo principalmente en **Python**, con experiencia en interfaces gráficas, bases de datos y automatización
+- 🤖 Explorando integración de **IA generativa** en aplicaciones
 - 🔧 Interesado en electrónica y sistemas embebidos con **Arduino**
-- 📚 En constante aprendizaje: métodos numéricos, álgebra lineal y desarrollo de software con metodologías ágiles (Scrum)
-
-### 🛠️ En desarrollo
-
-**LAMB** — Juego de terror psicológico en Python, con un asistente de IA que interactúa con el jugador a través de una interfaz de escritorio personalizada (PyQt6 + Google Gemini API).
+- 📚 Aprendizaje constante: algoritmos, estructuras de datos y buenas prácticas de desarrollo
 
 ---
 
