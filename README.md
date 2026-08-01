@@ -24,7 +24,7 @@ Apasionado por el desarrollo de software, la inteligencia artificial y la electr
 ### 💻 Tecnologías
 
 **Lenguajes**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Frameworks & Librerías**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -46,7 +46,7 @@ Apasionado por el desarrollo de software, la inteligencia artificial y la electr
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Su-007-ux&icon=1&color=7" alt="visitor badge"/></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Su-007-ux&icon=1&color=blue" alt="visitor badge"/></a>
 </p>
 
 <!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
