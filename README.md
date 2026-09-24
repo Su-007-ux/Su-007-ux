@@ -1,52 +1,63 @@
-<h1 align="center">¡Hola! 👋</h1>
+<h1 align="center">¡Hola, soy Jesu! 👋</h1>
 
-<h3 align="center">Desarrollador Python | Estudiante de Ingeniería en Informática</h3>
+<h3 align="center">Desarrollador Node.js · TypeScript · Python</h3>
 
 <p align="center">
-Apasionado por el desarrollo de software, la inteligencia artificial y la electrónica aplicada.
+Estudiante de Ingeniería en Informática enfocado en construir APIs, aplicaciones web
+e integraciones con IA. Busco [prácticas / primera oportunidad / proyectos colaborativos].
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🐍 Desarrollo principalmente en **Python**, con experiencia en interfaces gráficas, bases de datos y automatización
-- 🤖 Explorando integración de **IA generativa** en aplicaciones
-- 🔧 Interesado en electrónica y sistemas embebidos con **Arduino**
-- 📚 Aprendizaje constante: algoritmos, estructuras de datos y buenas prácticas de desarrollo
+- 🌐 Desarrollo backend con **Node.js, Express y TypeScript**, y frontend con **React**
+- 🐍 Uso **Python (FastAPI)** para APIs, automatización y análisis de datos
+- 🤖 Integro **IA generativa** en aplicaciones web
+- 🔧 Exploro sistemas embebidos con **Arduino**
+- 📚 Ahora mismo profundizando en: testing y arquitectura limpia
 
 ---
 
-### 🌐 Redes
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/JD2b)
-
-### 💻 Tecnologías
+### 💻 Stack
 
 **Lenguajes**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Frameworks & Librerías**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Bases de Datos**
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Herramientas & Plataformas**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+**Bases de datos**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Datos y herramientas**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📫 Contacto
 
-![](https://github-readme-stats.shion.dev/api?username=Su-007-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Su-007-ux&theme=gruvbox&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Su-007-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/JD2b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jesusdobles007@gmail.com)
 
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Su-007-ux&icon=1&color=blue" alt="visitor badge"/></a>
+<i>💡 Abierto a colaborar en proyectos y a nuevas oportunidades.</i>
 </p>
-
-<!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
